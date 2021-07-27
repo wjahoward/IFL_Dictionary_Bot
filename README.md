@@ -9,10 +9,6 @@ This bot helps youths to gain some financial knowledge of terms that are commonl
 + Provide video should the user does not understand the definition
 + Live chat with IFL trainers should the user still does not understand after watching the video
 
-# Features
-+ Fast and quick response
-+ 
-
 # Tech
 + Python
 + Excel
