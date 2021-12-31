@@ -12,5 +12,6 @@ This bot helps youths to gain some financial knowledge of terms that are commonl
 # Tech
 + Python
 + Excel
++ Telegram Bot API
 
 Link: https://sueychewy.wixsite.com/atlas-eportfolio/solution
