@@ -1,13 +1,7 @@
 """
     <summary>
-        This solution file creates a simple and usable telegram bot for FYP
+        This solution file creates a simple and usable telegram bot
     </summary>
-
-    <author>
-        @wgl_vin from SP DBKF
-        @wja_howard from SP DIT
-        @itstknotok from SP DIT
-    </author>
 
     The code is strictly for view only, it is copyright infringement to remove this line. Anyone who conducts a copyright will be liable to be sued, unless there has been approval from either one of the 3 names mentioned above.
 """
